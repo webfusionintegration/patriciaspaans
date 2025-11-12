@@ -21,4 +21,4 @@ Disallow: /
 Sitemap: https://www.patriciaspaans.com/sitemap.xml
 
 # Sitemap videos (homemade heberge chez GitHub)
-Sitemap: https://sitemaps.patriciaspaans.com/sitemap-video.xml
+Sitemap: https://www.patriciaspaans.com/sitemap-video.xml

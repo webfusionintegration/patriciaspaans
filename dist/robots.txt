@@ -17,8 +17,8 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-# Sitemap principal (Kajabi)
+# Sitemap principal (construit automatiquement par Kajabi)
 Sitemap: https://www.patriciaspaans.com/sitemap.xml
 
-# Sitemap videos (GitHub)
+# Sitemap videos (homemade heberge chez GitHub)
 Sitemap: https://sitemaps.patriciaspaans.com/sitemap-video.xml

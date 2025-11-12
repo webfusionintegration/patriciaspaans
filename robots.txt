@@ -1,0 +1,24 @@
+# This robots.txt allows indexing of all site paths. (Kajabi)
+# See http://www.robotstxt.org/robotstxt.html for more information.
+
+# Cloudflare Managed Content copied par FD
+User-Agent: *
+Content-signal: search=yes,ai-train=yes
+Allow: /
+Disallow: /private/
+
+# Bloquer certains bots indésirables
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Sitemap principal (Kajabi)
+Sitemap: https://www.patriciaspaans.com/sitemap.xml
+
+# Sitemap vidéos (GitHub)
+Sitemap: https://sitemaps.patriciaspaans.com/sitemap-video.xml

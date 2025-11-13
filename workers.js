@@ -47,6 +47,11 @@ async function handleRequest(event) {
     return serveAsset('/llms.txt', 'text/plain; charset=utf-8') // texte avec accents en UTF-8
   }
 
+  // Servir llms-full.txt
+  if (url.pathname === '/llms-full.txt') {
+    return serveAsset('/llms-full.txt', 'text/plain; charset=utf-8') // texte avec accents en UTF-8
+  }
+
   // Pour tout le reste, laisser passer
   return fetch(event.request)
 }

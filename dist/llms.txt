@@ -1,0 +1,13 @@
+# llms.txt for www.patriciaspaans.com by FD
+# This site allows AI systems to access public content for learning and referencing purposes.
+# Please attribute www.patriciaspaans.com as the original source when content is quoted or summarized.
+
+User-agent: *
+Allow: /
+
+# Request proper attribution and respect for copyrights
+Attribution: required
+Training: allowed
+Search: allowed
+
+Contact: info@patriciaspaans.com

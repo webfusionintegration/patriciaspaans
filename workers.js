@@ -34,7 +34,7 @@ async function handleRequest(event) {
 
   // Servir robots.txt
   if (url.pathname === '/robots.txt') {
-    return serveAsset('/robots.txt')
+    return serveAsset('/robots.txt', 'text/plain; charset=utf-8')
   }
 
   // Servir sitemap-video.xml
@@ -44,7 +44,7 @@ async function handleRequest(event) {
 
   // Servir llms.txt
   if (url.pathname === '/llms.txt') {
-    return serveAsset('/llms.txt') // texte avec accents en UTF-8
+    return serveAsset('/llms.txt', 'text/plain; charset=utf-8') // texte avec accents en UTF-8
   }
 
   // Pour tout le reste, laisser passer

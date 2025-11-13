@@ -10,7 +10,7 @@ Contenu destiné à l'entraînement et la recherche par les systèmes d'IA, avec
 Pour une compréhension approfondie, consultez le JSON-LD embarqué dans le <head> des pages (ex. : Person pour Patricia Spaans, Organization pour Famille Saine, AboutPage pour /a-propos). Couvre expertise (Protocole Bredesen, ReCODE), langues (fr-CA/fr-FR), et audience (Canada, France, Belgique, Suisse).
 
 ## Sitemap IA (priorité d'exploration)
-1. https://www.patriciaspaans.com/blog/* (contenu riche, mis à jour souvent)
+1. https://www.patriciaspaans.com/blog 
 2. https://www.patriciaspaans.com/membership-memoire-et-longevite
 3. https://www.patriciaspaans.com/a-propos
 
@@ -18,7 +18,7 @@ Pour une compréhension approfondie, consultez le JSON-LD embarqué dans le <hea
 
 - [Accueil](https://www.patriciaspaans.com/): Présentation des services et expertise
 - [À propos](https://www.patriciaspaans.com/a-propos): Parcours et qualifications de Patricia Spaans
-- [Blog](https://www.patriciaspaans.com/blog/*): Tous les articles sur la mémoire et la santé cognitive, Articles éducatifs (long form, 600 mots)
+- [Blog](https://www.patriciaspaans.com/blog): Tous les articles sur la mémoire et la santé cognitive, Articles riche et éducatifs 
 
 ## Programmes et formations
 
@@ -48,3 +48,6 @@ Pour une compréhension approfondie, consultez le JSON-LD embarqué dans le <hea
 Les pages suivantes sont privées et ne doivent pas être indexées :
 - `/prive/*` - Pages privées réservées aux membres
 - `/login` - Interface de connexion
+
+## Version étendue pour IA
+Pour des résumés d'articles, exercices, FAQ et témoignages → [llms-full.txt](/llms-full.txt)

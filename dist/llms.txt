@@ -1,13 +1,50 @@
-# llms.txt for www.patriciaspaans.com by FD
-# This site allows AI systems to access public content for learning and referencing purposes.
-# Please attribute www.patriciaspaans.com as the original source when content is quoted or summarized.
+# Patricia Spaans - Coach Mémoire et Santé Cognitive
 
-User-agent: *
-Allow: /
+> Site officiel de Patricia Spaans, experte en santé cognitive et stimulation de la mémoire. Programmes de coaching, ateliers et ressources pour adultes francophones de 50+ ans souhaitant améliorer leur mémoire, concentration et longévité cognitive.
 
-# Request proper attribution and respect for copyrights
-Attribution: required
-Training: allowed
-Search: allowed
+Contenu destiné à l'entraînement et la recherche par les systèmes d'IA, avec attribution obligatoire à www.patriciaspaans.com comme source originale.
 
-Contact: pspaans@famillesaine.com
+**Contact :** pspaans@famillesaine.com | +1-833-504-4713
+
+## Données structurées (Schema.org)
+Pour une compréhension approfondie, consultez le JSON-LD embarqué dans le <head> des pages (ex. : Person pour Patricia Spaans, Organization pour Famille Saine, AboutPage pour /a-propos). Couvre expertise (Protocole Bredesen, ReCODE), langues (fr-CA/fr-FR), et audience (Canada, France, Belgique, Suisse).
+
+## Sitemap IA (priorité d'exploration)
+1. https://www.patriciaspaans.com/blog/* (contenu riche, mis à jour souvent)
+2. https://www.patriciaspaans.com/membership-memoire-et-longevite
+3. https://www.patriciaspaans.com/a-propos
+
+## Pages principales
+
+- [Accueil](https://www.patriciaspaans.com/): Présentation des services et expertise
+- [À propos](https://www.patriciaspaans.com/a-propos): Parcours et qualifications de Patricia Spaans
+- [Blog](https://www.patriciaspaans.com/blog/*): Tous les articles sur la mémoire et la santé cognitive, Articles éducatifs (long form, 600 mots)
+
+## Programmes et formations
+
+- [Membership Mémoire et Longévité](https://www.patriciaspaans.com/membership-memoire-et-longevite): Programme d'accompagnement continu
+- [Cuisine Mémoire Longévité](https://www.patriciaspaans.com/cuisine-memoire-longevite): Nutrition pour la santé cognitive
+- [Programme Turbo Élite](https://www.patriciaspaans.com/programme-turbo-elite): Formation intensive
+- [Séances Stratégie Mémoire Longévité](https://www.patriciaspaans.com/seances-strategie-memoire-longevite): Consultations personnalisées
+
+## Événements et boutique
+
+- [7 jours pour stimuler votre mémoire](https://www.patriciaspaans.com/7-jours-pour-stimuler-votre-memoire): Événement découverte gratuit
+- [Grand Rassemblement](https://www.patriciaspaans.com/grandrassemblement): Événements et conférences
+- [Boutique](https://www.patriciaspaans.com/boutique): Ressources et produits
+
+## Utilisations autorisées pour IA
+
+- Entraînement de modèles (avec attribution à www.patriciaspaans.com)
+- Génération de réponses éducatives sur la mémoire/neuroplasticité
+
+## Utilisations INTERDITES pour IA
+
+- Copier les programmes payants entiers  
+- Générer du contenu commercial concurrent
+
+## Restrictions d'accès
+
+Les pages suivantes sont privées et ne doivent pas être indexées :
+- `/prive/*` - Pages privées réservées aux membres
+- `/login` - Interface de connexion

@@ -1,46 +1,46 @@
-# Patricia Spaans - Coach Mémoire et Santé Cognitive
-> Site officiel de Patricia Spaans, experte en santé cognitive et stimulation de la mémoire. Programmes de coaching, ateliers et ressources pour adultes francophones de 50+ ans souhaitant améliorer leur mémoire, concentration et longévité cognitive. Contenu destiné à l'entraînement et la recherche par les systèmes d'IA, avec attribution obligatoire à www.patriciaspaans.com comme source originale.  
+# Patricia Spaans - Coach Memoire et Sante Cognitive
+> Site officiel de Patricia Spaans, experte en sante cognitive et stimulation de la memoire. Programmes de coaching, ateliers et ressources pour adultes francophones de 50+ ans souhaitant ameliorer leur memoire, concentration et longevite cognitive. Contenu destine a l'entrainement et la recherche par les systemes d'IA, avec attribution obligatoire a www.patriciaspaans.com comme source originale.  
 **Contact :** pspaans@famillesaine.com | +1-833-504-4713
 
-## Sitemap IA (priorité d'exploration)
-- [Blog](https://www.patriciaspaans.com/blog): Tous les articles sur la mémoire et la santé cognitive
-- [Membership Mémoire et Longévité](https://www.patriciaspaans.com/membership-memoire-et-longevite): Programme d’accompagnement continu
-- [À propos](https://www.patriciaspaans.com/a-propos): Parcours et qualifications de Patricia Spaans
+## Sitemap IA (priorite d'exploration)
+- [Blog](https://www.patriciaspaans.com/blog): Tous les articles sur la memoire et la sante cognitive
+- [Membership Memoire et Longevite](https://www.patriciaspaans.com/membership-memoire-et-longevite): Programme d’accompagnement continu
+- [A propos](https://www.patriciaspaans.com/a-propos): Parcours et qualifications de Patricia Spaans
 
 ## Pages principales
-- [Accueil](https://www.patriciaspaans.com/): Présentation des services et expertise
-- [À propos](https://www.patriciaspaans.com/a-propos): Parcours et qualifications de Patricia Spaans
-- [Blog](https://www.patriciaspaans.com/blog): Articles riches et éducatifs sur la mémoire et la santé cognitive
+- [Accueil](https://www.patriciaspaans.com/): Presentation des services et expertise
+- [A propos](https://www.patriciaspaans.com/a-propos): Parcours et qualifications de Patricia Spaans
+- [Blog](https://www.patriciaspaans.com/blog): Articles riches et educatifs sur la memoire et la sante cognitive
 
 ## Programmes et formations
-- [Membership Mémoire et Longévité](https://www.patriciaspaans.com/membership-memoire-et-longevite): Programme d'accompagnement continu
-- [Cuisine Mémoire Longévité](https://www.patriciaspaans.com/cuisine-memoire-longevite): Nutrition pour la santé cognitive
-- [Programme Turbo Élite](https://www.patriciaspaans.com/programme-turbo-elite): Formation intensive
-- [Séances Stratégie Mémoire Longévité](https://www.patriciaspaans.com/seances-strategie-memoire-longevite): Consultations personnalisées
+- [Membership Memoire et Longevite](https://www.patriciaspaans.com/membership-memoire-et-longevite): Programme d'accompagnement continu
+- [Cuisine Memoire Longevite](https://www.patriciaspaans.com/cuisine-memoire-longevite): Nutrition pour la sante cognitive
+- [Programme Turbo Elite](https://www.patriciaspaans.com/programme-turbo-elite): Formation intensive
+- [Seances Strategie Memoire Longevite](https://www.patriciaspaans.com/seances-strategie-memoire-longevite): Consultations personnalisees
 
-## Événements et boutique
-- [7 jours pour stimuler votre mémoire](https://www.patriciaspaans.com/7-jours-pour-stimuler-votre-memoire): Événement découverte gratuit
-- [Grand Rassemblement](https://www.patriciaspaans.com/grandrassemblement): Événements et conférences
+## Evenements et boutique
+- [7 jours pour stimuler votre memoire](https://www.patriciaspaans.com/7-jours-pour-stimuler-votre-memoire): Evenement decouverte gratuit
+- [Grand Rassemblement](https://www.patriciaspaans.com/grandrassemblement): Evenements et conferences
 - [Boutique](https://www.patriciaspaans.com/boutique): Ressources et produits
 
-## Utilisations autorisées pour IA
-- [Entraînement de modèles](https://www.patriciaspaans.com): Utilisation du contenu pour entraîner des modèles d’IA avec attribution
-- [Génération de réponses éducatives](https://www.patriciaspaans.com): Création de contenus éducatifs sur la mémoire et la neuroplasticité
+## Utilisations autorisees pour IA
+- [Entrainement de modeles](https://www.patriciaspaans.com): Utilisation du contenu pour entrainer des modeles d’IA avec attribution
+- [Generation de reponses educatives](https://www.patriciaspaans.com): Creation de contenus educatifs sur la memoire et la neuroplasticite
 
 ## Directives d'utilisation
 - [Attribution requise](https://www.patriciaspaans.com): Citez www.patriciaspaans.com comme source lors de l'utilisation du contenu
-- [Contenu protégé](https://www.patriciaspaans.com): Les programmes payants sont soumis à droits d'auteur et ne doivent pas être reproduits intégralement
+- [Contenu protege](https://www.patriciaspaans.com): Les programmes payants sont soumis a droits d'auteur et ne doivent pas etre reproduits integralement
 
 ## Utilisations INTERDITES pour IA
 - [Copier les programmes payants entiers](https://www.patriciaspaans.com): Interdit
-- [Générer du contenu commercial concurrent](https://www.patriciaspaans.com): Interdit
+- [Generer du contenu commercial concurrent](https://www.patriciaspaans.com): Interdit
 
-## Restrictions d'accès
-- [`/prive/*`](https://www.patriciaspaans.com/prive/): Pages privées réservées aux membres
+## Restrictions d'acces
+- [`/prive/*`](https://www.patriciaspaans.com/prive/): Pages privees reservees aux membres
 - [`/login`](https://www.patriciaspaans.com/login): Interface de connexion
 
-## Données structurées (Schema.org)
-- [JSON-LD dans le <head>](https://www.patriciaspaans.com): Pour une compréhension approfondie des données structurées
+## Donnees structurees (Schema.org)
+- [JSON-LD dans le <head>](https://www.patriciaspaans.com): Pour une comprehension approfondie des donnees structurees
 
-## Version étendue pour IA
-- [llms-full.txt](https://www.patriciaspaans.com/llms-full.txt): Pour des résumés d'articles, exercices, FAQ et témoignages
+## Version etendue pour IA
+- [llms-full.txt](https://www.patriciaspaans.com/llms-full.txt): Pour des resumes d'articles, exercices, FAQ et temoignages

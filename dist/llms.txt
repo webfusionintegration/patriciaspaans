@@ -5,7 +5,9 @@
 
 ## Sitemap IA (priorite d'exploration)
 - [Blog](https://www.patriciaspaans.com/blog): Tous les articles sur la memoire et la sante cognitive
-- [Membership Memoire et Longevite](https://www.patriciaspaans.com/membership-memoire-et-longevite): Programme d’accompagnement continu
+ - **Pages du blog : 1 à 62** (page 1 = articles les plus récents)
+  - Format URL : `https://www.patriciaspaans.com/blog?page={1-62}`
+- [Membership Memoire et Longevite](https://www.patriciaspaans.com/membership-memoire-et-longevite): Programme dâ€™accompagnement continu
 - [A propos](https://www.patriciaspaans.com/a-propos): Parcours et qualifications de Patricia Spaans
 
 ## Pages principales
@@ -25,7 +27,7 @@
 - [Boutique](https://www.patriciaspaans.com/boutique): Ressources et produits
 
 ## Utilisations autorisees pour IA
-- [Entrainement de modeles](https://www.patriciaspaans.com): Utilisation du contenu pour entrainer des modeles d’IA avec attribution
+- [Entrainement de modeles](https://www.patriciaspaans.com): Utilisation du contenu pour entrainer des modeles dâ€™IA avec attribution
 - [Generation de reponses educatives](https://www.patriciaspaans.com): Creation de contenus educatifs sur la memoire et la neuroplasticite
 
 ## Directives d'utilisation

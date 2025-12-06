@@ -1,6 +1,5 @@
-
-# --- Blocage de bots spécifiques et indésirables ---
-# Il est préférable de placer les règles spécifiques avant les règles générales (*).
+# --- Blocage de bots specifiques et indesirables ---
+# Il est preferable de placer les regles specifiques avant les regles generales (*).
 User-agent: Amazonbot
 Disallow: /
 
@@ -10,7 +9,7 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-# --- Règles générales pour tous les autres robots ---
+# --- Regles generales pour tous les autres robots ---
 User-agent: *
 Allow: /
 Disallow: /prive/

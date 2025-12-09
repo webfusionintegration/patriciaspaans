@@ -18,5 +18,5 @@ Disallow: /prive/
 # Sitemap principal (construit automatiquement par Kajabi)
 Sitemap: https://www.patriciaspaans.com/sitemap.xml
 
-# Sitemap videos (homemade heberge chez GitHub)
+# Sitemap videos (homemade heberge ailleurs)
 Sitemap: https://www.patriciaspaans.com/sitemap-video.xml

@@ -1,37 +1,13 @@
 # --- Blocage de bots specifiques et indesirables ---
-# Il est preferable de placer les regles specifiques avant les regles generales (*).
-User-agent: Amazonbot
-Disallow: /
-
-User-agent: Bytespider
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
 
 # --- Regles generales pour tous les autres robots ---
 User-agent: *
 Allow: /
-
-# --- Zones privées existantes ---
 Disallow: /prive/
-
-# --- Ajouts pour optimiser le SEO et éviter le contenu dupliqué ---
-# 1. Dossiers systèmes (techniques)
-Disallow: /config/
-Disallow: /api/
-Disallow: /search
-
-# 2. Paramètres d'URL (Filtres et vues multiples)
-# Ceci bloque les URLs type /blog?tag=alimentation ou /blog?format=json
 Disallow: /*?tag=*
 Disallow: /*?author=*
 Disallow: /*?month=*
 Disallow: /*?format=*
 
-# --- Sitemaps ---
-# Sitemap principal (construit automatiquement par Kajabi)
 Sitemap: https://www.patriciaspaans.com/sitemap.xml
-
-# Sitemap videos (homemade heberge ailleurs)
 Sitemap: https://www.patriciaspaans.com/sitemap-video.xml

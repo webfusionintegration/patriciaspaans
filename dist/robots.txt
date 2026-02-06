@@ -1,13 +1,22 @@
-# --- Blocage de bots specifiques et indesirables ---
+# --- Blocage de bots specifiques et indesirables si besoin ---
 
 # --- Regles generales pour tous les autres robots ---
 User-agent: *
 Allow: /
 Disallow: /prive/
 Disallow: /*?tag=*
+Disallow: /*&tag=*
+Disallow: /*?wtime=*
+Disallow: /*&wtime=*
+Disallow: /*?page=*
+Disallow: /*&page=*
 Disallow: /*?author=*
+Disallow: /*&author=*
 Disallow: /*?month=*
+Disallow: /*&month=*
 Disallow: /*?format=*
+Disallow: /*&format=*
 
+# --- Sitemaps ---
 Sitemap: https://www.patriciaspaans.com/sitemap.xml
 Sitemap: https://www.patriciaspaans.com/sitemap-video.xml
